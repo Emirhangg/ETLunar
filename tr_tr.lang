@@ -1,0 +1,14 @@
+
+itemGroup.etlunar.etlunar=ET Lunar
+itemgroup.etlunar.etlunar=ET Lunar
+
+tile.etlunar.lunar_cont_1.name=1. SÄ±nÄ±f Ay Paneli KontrolcÃ¼sÃ¼
+tile.etlunar.lunar_cont_2.name=2. SÄ±nÄ±f Ay Paneli KontrolcÃ¼sÃ¼
+tile.etlunar.lunar_cont_3.name=3. SÄ±nÄ±f Ay Paneli KontrolcÃ¼sÃ¼
+tile.etlunar.lunar_cont_4.name=4. SÄ±nÄ±f Ay Paneli KontrolcÃ¼sÃ¼
+tile.etlunar.lunar_cont_5.name=5. SÄ±nÄ±f Ay Paneli KontrolcÃ¼sÃ¼
+tile.etlunar.lunar_cont_6.name=6. SÄ±nÄ±f Ay Paneli KontrolcÃ¼sÃ¼
+
+tile.etlunar.lunar_cell_mica.name=Mika Ay Paneli
+
+item.etlunar.lunarvoltaic_cell.name=Ay Enerjisi HÃ¼cresi
